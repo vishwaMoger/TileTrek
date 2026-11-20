@@ -1,24 +1,96 @@
-# Tile Trek
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2B5FD9,50:4D96FF,100:FFD93D&height=220&section=header&text=TILE%20TREK&fontSize=64&fontColor=ffffff&fontAlignY=36&stroke=000000&strokeWidth=2&desc=Slide%20the%20rooms%20%C2%B7%20Build%20the%20path%20%C2%B7%20Live%21&descSize=20&descAlignY=58&animation=twinkling" alt="TILE TREK" />
+</p>
+<p align="center">
+  <img width="100%" src="docs/media/cover.png" alt="Tile Trek cover" />
+</p>
+<p align="center">
+  <a href="https://bluelolipop1.itch.io/tile-trek"><img src="https://img.shields.io/badge/%E2%96%B6%20PLAY%20FREE%20ON%20ITCH.IO-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="▶ PLAY FREE ON ITCH.IO" height="46" /></a>
+  &nbsp;
+  <a href="https://github.com/vishwaMoger/TileTrek/releases/tag/tile-trek-v1"><img src="https://img.shields.io/badge/%F0%9F%8E%AC%20TRAILER-4D96FF?style=for-the-badge" alt="🎬 TRAILER" height="46" /></a>
+</p>
+<p align="center"><sub>Free in your browser · no download · desktop landscape &amp; phone portrait</sub></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Unity-6.3-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity: 6.3" />
+  <img src="https://img.shields.io/badge/Render-URP%202D-2B5FD9?style=for-the-badge&logo=unity&logoColor=white" alt="Render: URP 2D" />
+  <img src="https://img.shields.io/badge/C%23-Gameplay-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#: Gameplay" />
+  <img src="https://img.shields.io/badge/Genre-Live%20Puzzle-FFD93D?style=for-the-badge" alt="Genre: Live Puzzle" />
+  <img src="https://img.shields.io/badge/Levels-30%20%2B%20Daily%20%2B%20Endless-FF5E7E?style=for-the-badge" alt="Levels: 30 + Daily + Endless" />
+  <img src="https://img.shields.io/badge/Status-Released-2ea44f?style=for-the-badge" alt="Status: Released" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2600&pause=700&color=FFD93D&center=true&vCenter=true&width=760&height=50&lines=%3E+YOUR+HERO+NEVER+STOPS+WALKING;%3E+SLIDE+THE+ROOMS.+BUILD+THE+PATH.;%3E+REACH+THE+TROPHY%21" alt="> YOUR HERO NEVER STOPS WALKING / > SLIDE THE ROOMS. BUILD THE PATH. / > REACH THE TROPHY!" />
+</p>
 
-![Tile Trek](docs/media/cover.png)
+---
 
-**Your hero never stops walking. Slide the rooms to build their path to the trophy, live!**
+<h2 align="center">🎮 GAMEPLAY</h2>
 
-[**Play free in your browser on itch.io**](https://bluelolipop1.itch.io/tile-trek) &nbsp;·&nbsp;
-[**Release: trailer and cover**](https://github.com/vishwaMoger/TileTrek/releases/tag/tile-trek-v1)
+<p align="center">
+  <img width="100%" src="docs/media/trailer.gif" alt="Tile Trek gameplay trailer" />
+</p>
+<p align="center"><b>Your hero never stops walking. Slide the rooms to build their path to the trophy, live!</b></p>
 
-![Tile Trek gameplay](docs/media/trailer.gif)
+<p align="center">
+  <img width="100%" src="docs/readme/features.svg" alt="How it plays: the hero never stops, slide rooms, route trail, 30 levels, Trek Rush endless mode, daily puzzle" />
+</p>
+<p align="center">
+  <img width="100%" src="docs/readme/difficulty.svg" alt="Difficulty curve: boards grow from 3 by 2 to 5 by 4 across five seasons" />
+</p>
 
-| | |
-|---|---|
-| ![Spring Meadow](docs/media/screenshot_1_spring.jpg) | ![Autumn Woods](docs/media/screenshot_2_autumn.jpg) |
-| ![Rainy Peaks](docs/media/screenshot_3_rain.jpg) | ![Firefly Night](docs/media/screenshot_4_night_solving.jpg) |
-| ![Snowy Castle](docs/media/screenshot_5_snow.jpg) | |
+---
 
-> Also by me: **[Fruit Quest](https://github.com/vishwaMoger/FruitQuest)**, the pixel platformer this project started as
-> ([play it on itch.io](https://bluelolipop1.itch.io/fruit-quest)).
+<h2 align="center">📸 FIVE SEASONS</h2>
 
-## About
+<p align="center">
+  <img width="49%" src="docs/media/screenshot_1_spring.jpg" alt="🌸 Spring Meadow" />
+  <img width="49%" src="docs/media/screenshot_2_autumn.jpg" alt="🍂 Autumn Woods" />
+  <br/><sub>🌸 Spring Meadow &nbsp;·&nbsp; 🍂 Autumn Woods</sub>
+</p>
+<p align="center">
+  <img width="49%" src="docs/media/screenshot_3_rain.jpg" alt="🌧️ Rainy Peaks" />
+  <img width="49%" src="docs/media/screenshot_4_night_solving.jpg" alt="✨ Firefly Night" />
+  <br/><sub>🌧️ Rainy Peaks &nbsp;·&nbsp; ✨ Firefly Night</sub>
+</p>
+<p align="center">
+  <img width="70%" src="docs/media/screenshot_5_snow.jpg" alt="Snowy Castle" />
+</p>
+<p align="center"><sub>❄️ Snowy Castle</sub></p>
+
+---
+
+<h2 align="center">🕹️ CONTROLS</h2>
+
+| Action | Keyboard | Touch / mouse |
+|---|---|---|
+| Slide a room into the gap | Arrow keys / WASD (pushes the neighbour into the gap) | Tap or swipe a highlighted room |
+| Pause | Esc or P | Pause button |
+
+Stars per puzzle: ⭐ **solved**, ⭐ **fast** (under the target time), ⭐ **smart** (at or under par slides).
+
+---
+
+<h2 align="center">⚙️ UNDER THE HOOD</h2>
+
+<p align="center">
+  <img width="100%" src="docs/readme/tech.svg" alt="Under the hood: always-solvable generator, hint solver, automated tests, portrait mode, play-earned rewards, store kit capture" />
+</p>
+
+---
+
+<h2 align="center">🌱 ORIGIN STORY</h2>
+
+<p align="center">Tile Trek was built from <a href="https://github.com/vishwaMoger/FruitQuest"><b>Fruit Quest</b></a>, my pixel platformer (<a href="https://bluelolipop1.itch.io/fruit-quest">play it on itch.io</a>),<br/>which itself grew out of <a href="https://github.com/vishwaMoger/VishwaMoger_MiniPlatformer"><b>Mini Platformer</b></a>.</p>
+
+---
+
+<h2 align="center">🛠️ FOR DEVELOPERS</h2>
+
+
+<details>
+<summary><b>🛠️ For developers: full design notes, code map, dev console and builds</b></summary>
+
+### About
 
 
 A live sliding-tile puzzle for Unity 6.3 (URP 2D). The level is a grid of small pixel rooms with one empty slot.
@@ -53,7 +125,7 @@ in real time, keeping them out of trap rooms (spikes, saws, fire, critters) and 
   earned by playing: a **bonus chest** on each results screen, a **spin token** for every 3 puzzles solved,
   **revive for 40 coins**, mission swaps for 25 coins, a **free booster gift** in the shop once a day.
 
-## Play
+### Play
 
 Open the project in Unity 6000.3, open `Assets/_Game/Scenes/Game.unity` and press Play. Everything runs in this one
 scene; puzzles are generated at runtime from their level number.
@@ -63,7 +135,7 @@ scene; puzzles are generated at runtime from their level number.
 | Slide a room into the gap | Arrow keys / WASD (pushes the neighbour into the gap) | Tap or swipe a highlighted room |
 | Pause | Esc or P | Pause button |
 
-## Code map
+### Code map
 
 ```
 Assets/_Game/Scripts/
@@ -85,13 +157,13 @@ Editor-only dev console (`Temp/devcmd.txt`, `Tools/dev.sh`): `level N`, `daily`,
 `hintstress A B N [portrait]` (follows hints from many mid-game states), `curate 0|1` (re-picks the campaign levels),
 `cover` / `clip` / `sheet` / `trailer` (store assets, see `DevCapture.cs` and `Tools/trailer.sh`).
 
-## itch.io (web)
+### itch.io (web)
 
 - Build: **Tools > Fruit Quest > itch.io Build** -> `Builds/Itch/WebGL` (SiteLock whitelists itch's domains, gzip
   with decompression fallback; the CrazyGames settings are restored afterwards).
 - Upload with [butler](https://itch.io/docs/butler/): `butler push Builds/Itch/WebGL bluelolipop1/tile-trek:html5`
 
-## CrazyGames (web)
+### CrazyGames (web)
 
 - SDK: CrazyGames Unity SDK 5.33.0 in `Assets/CrazySDK`. All SDK use goes through `Core/Platform.cs` (never throws).
 - **Ads off for Basic Launch** (`Platform.AdsEnabled = false`): CrazyGames disables monetization during Basic Launch,
@@ -103,9 +175,20 @@ Editor-only dev console (`Temp/devcmd.txt`, `Tools/dev.sh`): `level N`, `daily`,
 - Build: **Tools > Fruit Quest > CrazyGames > 3. Release Build (single pass)** -> `Builds/CrazyGamesRelease`
   (upload every file). Local test: `python Tools/serve_webgl.py` then open http://localhost:8080.
 
-## Credits (all free for commercial use)
+</details>
+
+### 🙏 Credits (all free for commercial use)
 
 - Art: **Pixel Adventure 1 & 2** by Pixel Frog; parallax backgrounds by **ansimuz** (CC0)
 - Music: **Juhani Junkala** "Chiptune Adventures" (CC0), **Zane Little** "Flowerbed Fields" (CC0)
 - Sounds: **Kenney** Interface Sounds and Music Jingles (CC0), plus the original project's sound effects
 - Font: **Lilita One** by Juan Montoreano (SIL Open Font License, see `Art/Fonts/LilitaOne-OFL.txt`)
+
+---
+
+<p align="center">
+  <b>Made with ❤️ and 🧱 by <a href="https://github.com/vishwaMoger">Vishwa Moger</a></b><br/>
+  <sub>Game Developer · 3+ years · Bangalore, India · <a href="https://bluelolipop1.itch.io">more games on itch.io</a> · <a href="https://vishwa-moger.vercel.app">portfolio</a></sub>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD93D,50:4D96FF,100:2B5FD9&height=110&section=footer" />
